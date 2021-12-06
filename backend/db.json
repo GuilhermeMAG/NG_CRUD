@@ -1,0 +1,47 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Pen drive",
+            "price": "50.99"
+        },
+        {
+            "id": 2,
+            "name": "Teclado",
+            "price": "500.99"
+        },
+        {
+            "id": 3,
+            "name": "Mouse",
+            "price": "149.99"
+        },
+        {
+            "id": 4,
+            "name": "Headset",
+            "price": "350.99"
+        },
+        {
+            "id": 5,
+            "name": "Monitor",
+            "price": "1999.99"
+
+        },
+        {
+            "id": 6,
+            "name": "Dock",
+            "price": "1299.99"
+        }
+    ],
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}
